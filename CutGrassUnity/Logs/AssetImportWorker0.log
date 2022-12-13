@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.2f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/USER/Cut Grass Game
+F:/Git projects/FanYou/CutGrassGit/CutGrass/CutGrassUnity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59522
-Successfully changed project path to: C:/Users/USER/Cut Grass Game
-C:/Users/USER/Cut Grass Game
+62838
+Successfully changed project path to: F:/Git projects/FanYou/CutGrassGit/CutGrass/CutGrassUnity
+F:/Git projects/FanYou/CutGrassGit/CutGrass/CutGrassUnity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,11 +47,11 @@ C:/Users/USER/Cut Grass Game
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 124.40 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 123.01 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.2f1 (d6360bedb9a0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/USER/Cut Grass Game/Assets
+[Subsystems] Discovering subsystems at path F:/Git projects/FanYou/CutGrassGit/CutGrass/CutGrassUnity/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -63,245 +63,47 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56716
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008774 seconds.
+Registered in 0.009007 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 112.06 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 111.41 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.749 seconds
+- Completed reload, in  0.742 seconds
 Domain Reload Profiling:
-	ReloadAssembly (750ms)
-		BeginReloadAssembly (84ms)
+	ReloadAssembly (742ms)
+		BeginReloadAssembly (77ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (544ms)
-			LoadAssemblies (82ms)
+		EndReloadAssembly (541ms)
+			LoadAssemblies (77ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (116ms)
+			SetupTypeCache (119ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (342ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (334ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (67ms)
+				InitializePlatformSupportModulesInManaged (65ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (112ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (110ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
+				RefreshPlugins (111ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (106ms)
+				ProcessInitializeOnLoadMethodAttributes (49ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007219 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\USER\Cut Grass Game\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\USER\Cut Grass Game\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 115.83 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.424 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1424ms)
-		BeginReloadAssembly (236ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (129ms)
-		EndReloadAssembly (1053ms)
-			LoadAssemblies (104ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (275ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (69ms)
-			SetupLoadedEditorAssemblies (554ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (116ms)
-				BeforeProcessingInitializeOnLoad (124ms)
-				ProcessInitializeOnLoadAttributes (242ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (8ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.62 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4048 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 43 unused Assets / (225.5 KB). Loaded Objects now: 4500.
-Memory consumption went from 150.9 MB to 150.7 MB.
-Total: 2.964000 ms (FindLiveObjects: 0.269800 ms CreateObjectMapping: 0.114600 ms MarkObjects: 2.456800 ms  DeleteObjects: 0.122000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 43721.538651 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.006294 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.106934 seconds.
-  path: Assets/Graphics
-  artifactKey: Guid(0521ffbb360aa4643ad2368c8d1c7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics using Guid(0521ffbb360aa4643ad2368c8d1c7f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258643df457f68a13be3a80c56fee946') in 0.002560 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 698.116961 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout
-  artifactKey: Guid(a2e3d956f0d5bad4eac178794c250435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout using Guid(a2e3d956f0d5bad4eac178794c250435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeaeb066f65c50337ac3c68be28d5dee') in 0.003907 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.058904 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/001.png
-  artifactKey: Guid(349c234f8ae6eb0499413c5ec3a15ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/001.png using Guid(349c234f8ae6eb0499413c5ec3a15ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e94ad6a5195f3664beedd3ab4508f6') in 0.141256 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/026.png
-  artifactKey: Guid(911cae22a0e175145a4e8a1dec077715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/026.png using Guid(911cae22a0e175145a4e8a1dec077715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15253ae90ad1b4e0b1efa1af2b30779') in 0.014023 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/028-1.png
-  artifactKey: Guid(a84ebe76e8069f74a99e8ddaa48993bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/028-1.png using Guid(a84ebe76e8069f74a99e8ddaa48993bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3283fdff4b348bc3d176062108520a0b') in 0.011827 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/010.png
-  artifactKey: Guid(e502daac8d2226f4a95e6b9441791317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/010.png using Guid(e502daac8d2226f4a95e6b9441791317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04011fe9a6f68025aa265fe3f06e9db') in 0.020107 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/32.png
-  artifactKey: Guid(14129d0e113034143ab0d8a313d2bea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/32.png using Guid(14129d0e113034143ab0d8a313d2bea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34b5fa825a9a87ca248ba2569690782') in 0.021318 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/看视频.jpg
-  artifactKey: Guid(d4085cbcb0714bc449b6bdfe43ed4fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/看视频.jpg using Guid(d4085cbcb0714bc449b6bdfe43ed4fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1efb6c662e40ecb394015588af683e') in 0.198077 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/011.png
-  artifactKey: Guid(a91511d67257c564eb01f9b77a654b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/011.png using Guid(a91511d67257c564eb01f9b77a654b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1c2e7c1e0b3914094f395a58a59f46') in 0.020450 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/009.png
-  artifactKey: Guid(18f17549e5842364da914b902f5b84c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/009.png using Guid(18f17549e5842364da914b902f5b84c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecd8be61ba503b159a9cbbc0f102c53') in 0.066535 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/014.png
-  artifactKey: Guid(9eb5225fa01a65f49b2e2a04e67f088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/014.png using Guid(9eb5225fa01a65f49b2e2a04e67f088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e244befd3bf921d465622ed787b6ac4d') in 0.018212 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/028.png
-  artifactKey: Guid(6b85414f6026fc240aea5053d81ca3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/028.png using Guid(6b85414f6026fc240aea5053d81ca3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dfeeb5efa401a56ad955e6bb0351b74') in 0.016075 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/004.png
-  artifactKey: Guid(21e5172d479cb8f4791c31a50de05a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/004.png using Guid(21e5172d479cb8f4791c31a50de05a42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7018a6b5e11c79b937daf6cfc4bf7d7b') in 0.024281 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/结算.jpg
-  artifactKey: Guid(59c25480063154142b8967eef25067c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/结算.jpg using Guid(59c25480063154142b8967eef25067c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84814520059f36dc1e1cd4c9fc120b5e') in 0.159860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/008.png
-  artifactKey: Guid(d58ce352ea96d5e46bd12d319be3f386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/008.png using Guid(d58ce352ea96d5e46bd12d319be3f386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7cd5b0ff10fd4ac47eec62e7e9eed18') in 0.018166 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/017.png
-  artifactKey: Guid(1cd28273ffc693f499e04c7cc4c6eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/017.png using Guid(1cd28273ffc693f499e04c7cc4c6eec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addbcec7b926fb352b492fd55b2d9c5c') in 0.020341 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/设置2.jpg
-  artifactKey: Guid(25912aacec9c55a4bbe5379cb60d9ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/设置2.jpg using Guid(25912aacec9c55a4bbe5379cb60d9ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ea160126d743f1ddddd6f940084cdf') in 0.148169 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000049 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/003.png
-  artifactKey: Guid(be6809208a1b1b641943d2f7b43fbe10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/003.png using Guid(be6809208a1b1b641943d2f7b43fbe10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5315ad0acf0c0b8a4b1b2ee1f6ac839d') in 0.018036 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/018.png
-  artifactKey: Guid(b0044f4caf56043448aad9f4284b5fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/018.png using Guid(b0044f4caf56043448aad9f4284b5fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af293d2caab7e52e644115e58d0d880d') in 0.015148 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/016.png
-  artifactKey: Guid(cf7be26483397cf4482361b513b24f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/016.png using Guid(cf7be26483397cf4482361b513b24f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36780ea8089c82289b25038c2405d25') in 0.017548 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/013.png
-  artifactKey: Guid(01cee09fe7d9e574ea329f2f418b8bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/013.png using Guid(01cee09fe7d9e574ea329f2f418b8bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0c16347d170e14e81b56272147bf2f') in 0.022199 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Graphics/Level Clearing Video Skin Setting Cutout/025.png
-  artifactKey: Guid(e18124f50e7abea479ac4ee37a2bc4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Graphics/Level Clearing Video Skin Setting Cutout/025.png using Guid(e18124f50e7abea479ac4ee37a2bc4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84626b10954790aaee629a061277a433') in 0.020798 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Registered in 0.005928 seconds.
+Android Extension - Scanning For ADB Devices 4543 ms
